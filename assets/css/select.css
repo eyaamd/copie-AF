@@ -1,0 +1,22 @@
+.custom-select {
+  display: flex;
+  flex-wrap: wrap; /* Permet de passer à la ligne si nécessaire */
+  margin-top: 1% ;
+}
+
+.select-wrapper {
+  width:15%; /* Ajustez la largeur pour s'adapter à vos besoins */
+}
+
+.select-button {
+  width: 55%;
+  font-size: 16px;
+  background-color: #fff;
+  border: 1px solid #caced1;
+  border-radius: 0.25rem;
+  padding : 2% ;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
